@@ -31,7 +31,7 @@ projeto_dengue/
 ### 1. Clone o repositório (ou copie os arquivos)
 
 ```bash
-git clone https://github.com/seuusuario/projeto_dengue.git
+git clone https://github.com/jpdagostin/project_dengue.git
 cd projeto_dengue
 ```
 
