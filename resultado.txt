@@ -1,0 +1,16 @@
+📊 Resultados do Modelo KNN para Diagnóstico de Dengue
+=======================================================
+
+🔹 Primeiros dados transformados (binarizados):
+ paciente  febre  dor_muscular  falta_apetite  manchas_vermelhas  dengue
+        1   38.6             1              1                  1       1
+        2   36.4             0              0                  0       0
+        3   37.5             1              1                  0       1
+        4   38.9             1              1                  1       1
+        5   39.3             1              1                  1       1
+
+🔹 Matriz de Confusão:
+  3  0
+  0  1
+
+🔹 Acurácia do modelo: 100.00%

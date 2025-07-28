@@ -2,10 +2,6 @@
 venv/
 .venv/
 
-# Arquivos gerados
-*.csv
-resultado.txt
-
 # Cache Python
 __pycache__/
 *.py[cod]
